@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 #       ropsearch.py
 #       
 #       Copyright 2010 Long Le Dinh <longld at vnsecurity.net>
