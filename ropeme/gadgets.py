@@ -18,8 +18,13 @@
 #       MA 02110-1301, USA.
 
 import trie
-import distorm
 import sys
+
+try:
+    import distorm
+except:
+    import distorm3 as distorm
+
 try:
     import cPickle as pickle
 except:
