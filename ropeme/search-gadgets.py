@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python2
 #       search-gadgets.py
 #       
 #       Copyright 2010 Long Le Dinh <longld at vnsecurity.net>
